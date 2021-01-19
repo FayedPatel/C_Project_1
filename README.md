@@ -4,7 +4,7 @@ This Project is written in C using a simple search and sort algorithm.
 
 Proj Req:
   * Sort numbers
-  * Search for said numbers
+  * Search for said numbers (linear and binary search)
   
 
 Enter numbers followed by -999 
